@@ -1,2 +1,0 @@
-# bsglobal.github.io
-readme
